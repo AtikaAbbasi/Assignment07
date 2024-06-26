@@ -1,0 +1,119 @@
+body{
+   background-color: rgb(175, 167, 176); 
+}
+
+h1{
+    background-color: white;
+    margin: 0 auto ;
+    border-radius:10px ;
+    text-indent: 2em;
+    width: 70%;
+    height: 45px;
+}
+
+.divone{
+    background-color: white;
+    margin: 0 auto;
+    width: 65%;
+}
+
+.one{
+    background-color: rgb(247, 134, 190);
+    margin: 0 auto;
+    width: 100%;
+}
+.two{
+    background-color: rgb(245, 112, 179);
+    margin: 0 auto;
+    width: 100%;
+}
+.three{
+    background-color: rgb(244, 86, 165);
+    margin: 0 auto;
+    width:  100%;
+}
+.four{
+    background-color: rgb(247, 62, 154);
+    margin: 0 auto;
+    width:  100%;
+}
+.five{
+    background-color: rgb(246, 42, 144);
+    margin: 0 auto;
+    width:  100%;
+}
+
+.six{
+    background-color: rgb(248, 9, 128);
+    margin: 0 auto;
+    width:  100%;
+}
+
+
+
+
+/* Neutral */
+
+
+
+
+
+.new{
+background-color:white ;
+margin: 0 auto;
+width: 65%;
+
+}
+
+
+.zero{
+    background-color: rgb(67, 193, 67);
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+
+/* blue scale */
+
+
+.divtwo{
+    background-color: white;
+    margin: 0 auto;
+    width: 65%;
+}
+
+
+.one1{
+    background-color:  rgb(110, 223, 254);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.two2{
+    background-color: rgb(87, 218, 254);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.three3{
+    background-color: rgb(72, 214, 253);
+    margin: 0 auto;
+    width: 100%;
+}
+
+.four4{
+    background-color: rgb(52, 211, 254);
+    margin: 0 auto;
+    width: 100%;
+}
+.five5{
+    background-color: rgb(35, 205, 252);
+    margin: 0 auto;
+    width: 100%;
+}
+.six6{
+    background-color: rgb(26, 200, 255);
+    margin: 0 auto;
+    width: 100%;
+}
